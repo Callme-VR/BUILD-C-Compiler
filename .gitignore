@@ -1,0 +1,37 @@
+# Build artifacts
+*.o
+*.exe
+*.out
+*.obj
+
+# Generated parser/lexer files
+*.tab.c
+*.tab.h
+lex.yy.c
+
+# Temporary files
+*.tmp
+*.temp
+nul
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup 
